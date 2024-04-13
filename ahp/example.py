@@ -1,5 +1,5 @@
 import numpy as np
-from ahp import AHP
+from ahp2.ahp import AHP
 
 
 
