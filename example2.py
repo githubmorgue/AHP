@@ -1,5 +1,5 @@
 import numpy as np
-from ahp2.ahp import AHP
+from ahp import AHP
 
 
 # 准则重要性矩阵
